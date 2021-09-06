@@ -189,6 +189,25 @@ console.log( v );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/stats/base/dmeanors`][@stdlib/stats/base/dmeanors]: calculate the arithmetic mean of a double-precision floating-point strided array using ordinary recursive summation.
+-   [`@stdlib/stats/base/dnanmean`][@stdlib/stats/base/dnanmean]: calculate the arithmetic mean of a double-precision floating-point strided array, ignoring NaN values.
+-   [`@stdlib/stats/base/nanmeanors`][@stdlib/stats/base/nanmeanors]: calculate the arithmetic mean of a strided array, ignoring NaN values and using ordinary recursive summation.
+-   [`@stdlib/stats/base/snanmeanors`][@stdlib/stats/base/snanmeanors]: calculate the arithmetic mean of a single-precision floating-point strided array, ignoring NaN values and using ordinary recursive summation.
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -249,6 +268,18 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [@stdlib/array/float64]: https://github.com/stdlib-js/array-float64
 
 [mdn-typed-array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray
+
+<!-- <related-links> -->
+
+[@stdlib/stats/base/dmeanors]: https://github.com/stdlib-js/stats-base-dmeanors
+
+[@stdlib/stats/base/dnanmean]: https://github.com/stdlib-js/stats-base-dnanmean
+
+[@stdlib/stats/base/nanmeanors]: https://github.com/stdlib-js/stats-base-nanmeanors
+
+[@stdlib/stats/base/snanmeanors]: https://github.com/stdlib-js/stats-base-snanmeanors
+
+<!-- </related-links> -->
 
 </section>
 
