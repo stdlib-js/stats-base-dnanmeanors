@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-02-09)
+## Unreleased (2025-02-18)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`50435ee`](https://github.com/stdlib-js/stdlib/commit/50435ee02e6c25a2b7d65702056e9d4e83a37337) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`d53a818`](https://github.com/stdlib-js/stdlib/commit/d53a8184c029c3df7c45a7a1a2da9ff90b4f883e) - **docs:** fix errors in the structure of READMEs in `stats/base/*` [(#5138)](https://github.com/stdlib-js/stdlib/pull/5138) _(by Aayush Khanna)_
 -   [`ea4fd1d`](https://github.com/stdlib-js/stdlib/commit/ea4fd1da2a4d9e17e0e756a38ce56910eaadebb4) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dnanmeanors` [(#4248)](https://github.com/stdlib-js/stdlib/pull/4248) _(by Neeraj Pathak, Athan Reines, stdlib-bot)_
 -   [`e473425`](https://github.com/stdlib-js/stdlib/commit/e4734254b6927321a9188f0d2b1af6d48e213a54) - **refactor:** update `stats/base/dnanmeanors` native addon from C++ to C [(#4111)](https://github.com/stdlib-js/stdlib/pull/4111) _(by Neeraj Pathak)_
